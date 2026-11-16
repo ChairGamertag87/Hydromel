@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "hydromel:emptyshot"
+    }
+  },
+  "result": {
+    "item": "minecraft:glass_bottle",
+    "count": 1
+  }
+}

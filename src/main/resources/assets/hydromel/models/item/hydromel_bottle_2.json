@@ -1,0 +1,7 @@
+{
+  "parent": "hydromel:custom/hydromel",
+  "textures": {
+    "1": "hydromel:block/hydromel_3d",
+    "particle": "hydromel:item/zebiz"
+  }
+}

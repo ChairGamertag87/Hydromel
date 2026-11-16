@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:carrot"
+    },
+    "b": {
+      "item": "minecraft:potato"
+    },
+    "c": {
+      "item": "minecraft:water_bucket"
+    },
+    "d": {
+      "item": "minecraft:wheat"
+    },
+    "e": {
+      "item": "minecraft:beetroot"
+    }
+  },
+  "result": {
+    "item": "hydromel:yeast",
+    "count": 4
+  }
+}

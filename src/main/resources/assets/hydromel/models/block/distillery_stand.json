@@ -1,0 +1,9 @@
+{
+  "parent": "hydromel:custom/distillery_stand",
+  "textures": {
+    "all": "hydromel:block/disti_stand",
+    "particle": "hydromel:block/disti_stand",
+    "0": "hydromel:block/brewing_stand"
+  },
+  "render_type": "solid"
+}

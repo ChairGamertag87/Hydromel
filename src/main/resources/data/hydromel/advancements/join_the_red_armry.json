@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "hydromel:katyusha"
+    },
+    "title": {
+      "translate": "advancements.join_the_red_armry.title"
+    },
+    "description": {
+      "translate": "advancements.join_the_red_armry.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "join_the_red_armry": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "hydromel:addiction"
+}

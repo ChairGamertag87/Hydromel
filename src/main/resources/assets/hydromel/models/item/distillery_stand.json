@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "hydromel:item/disti_stand"
+  },
+  "render_type": "translucent"
+}

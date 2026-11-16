@@ -1,0 +1,18 @@
+{
+  "polish_cow": {
+    "sounds": [
+      {
+        "name": "hydromel:polish_cow",
+        "stream": true
+      }
+    ]
+  },
+  "katyusha": {
+    "sounds": [
+      {
+        "name": "hydromel:katsyusha",
+        "stream": false
+      }
+    ]
+  }
+}

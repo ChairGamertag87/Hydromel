@@ -1,0 +1,7 @@
+{
+  "parent": "hydromel:custom/heal_hydromel",
+  "textures": {
+    "1": "hydromel:block/heal_hydromel_3d",
+    "particle": "hydromel:item/heal_hydromel_3d"
+  }
+}
